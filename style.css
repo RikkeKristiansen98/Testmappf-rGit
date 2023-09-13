@@ -1,6 +1,12 @@
 main{
     background-color: aquamarine;
 }
+div{
+    background-color: aqua;
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
 
 footer{
     background-color: pink;
